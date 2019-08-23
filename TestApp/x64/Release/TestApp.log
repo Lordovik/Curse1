@@ -1,0 +1,42 @@
+﻿  Moc'ing TestApp.h...
+  Moc'ing AdminGroupBox.h...
+  Moc'ing CloseDialog.h...
+  AddABQuestDialog.cpp
+  AddExamDialog.cpp
+  AddSubjectDialog.cpp
+  AddTeachDialog.cpp
+  AddToWrQuestDialog.cpp
+  Admin.cpp
+  AdminGroupBox.cpp
+  AnswerABDialog.cpp
+  AnswerTWDialog.cpp
+  moc_AddABQuestDialog.cpp
+  moc_AddExamDialog.cpp
+  moc_AddSubjectDialog.cpp
+  moc_AddTeachDialog.cpp
+  moc_AddToWrQuestDialog.cpp
+  moc_AdminGroupBox.cpp
+  moc_AnswerABDialog.cpp
+  moc_AnswerTWDialog.cpp
+  moc_CloseDialog.cpp
+  moc_LogInDialog.cpp
+  moc_StudDialog.cpp
+  moc_StudGroupBox.cpp
+  moc_TeachGroupBox.cpp
+  moc_TestApp.cpp
+  qrc_TestApp.cpp
+  CloseDialog.cpp
+  Exam.cpp
+c:\users\lordo\desktop\curse\testapp\testapp\exam.cpp(31): warning C4154: deletion of an array expression; conversion to pointer supplied
+  LogInDialog.cpp
+  Person.cpp
+  StudDialog.cpp
+  StudGroupBox.cpp
+  Student.cpp
+  Subject.cpp
+  TeachGroupBox.cpp
+c:\users\lordo\desktop\curse\testapp\testapp\subject.cpp(25): warning C4154: deletion of an array expression; conversion to pointer supplied
+  Teacher.cpp
+  TestApp.cpp
+  main.cpp
+  TestApp.vcxproj -> C:\Users\lordo\Desktop\Curse\TestApp\x64\Release\TestApp.exe
